@@ -57,8 +57,8 @@ public class Main {
 		int e = q % 10;// знаем 3е число
 		int e2 = w / 10;
 		int e3 = w % 10;
-
 		System.out.println("Произведение равно " + e * e2 * e3);
+		System.out.println("--------------------------");
 
 	}
 
